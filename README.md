@@ -16,6 +16,9 @@ This extension adds a realistic glass breaking effect to any view. It was develo
 
 ## Demo
 
+![MIT-App-Inventor-05-09-2025_05_14_PM](https://github.com/user-attachments/assets/7bb60849-ad96-4e9a-88a6-5a4900ca1033)
+![blocks](https://github.com/user-attachments/assets/4b4ac082-709a-448a-b2a1-217dcb77d01e)
+
 
 ## Blocks
 
