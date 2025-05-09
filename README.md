@@ -19,6 +19,26 @@ This extension adds a realistic glass breaking effect to any view. It was develo
 ![MIT-App-Inventor-05-09-2025_05_14_PM](https://github.com/user-attachments/assets/7bb60849-ad96-4e9a-88a6-5a4900ca1033)
 ![blocks](https://github.com/user-attachments/assets/4b4ac082-709a-448a-b2a1-217dcb77d01e)
 
+-----
+
+![Screenshot_2025-05-09-21-09-41-427_com.miui.mediaviewer.jpg](https://github.com/user-attachments/assets/797fb8b3-9e91-462c-933e-ffd25f657056)
+
+![Screenshot_2025-05-09-21-06-43-758_com.mi.android.globallauncher.png](https://github.com/user-attachments/assets/bd30387a-5387-49a2-9a4e-0c23a32021fb)
+
+![Screenshot_2025-05-09-21-09-57-099_com.miui.mediaviewer.jpg](https://github.com/user-attachments/assets/0b307f21-2db3-420e-8603-b9a9384a4c3e)
+
+![Screenshot_2025-05-09-21-09-20-648_com.miui.mediaviewer.jpg](https://github.com/user-attachments/assets/9b0bb4eb-c1f2-41ef-bcac-87adf74c2475)
+
+![Screenshot_2025-05-09-21-07-15-720_appinventor.ai_Techhamara91.broken.jpg](https://github.com/user-attachments/assets/c82b4b61-b842-400c-b877-8057173b9fc0)
+
+-----
+
+![5294bc6a-3b33-4827-ae81-d6292a7c57ad.gif](https://github.com/user-attachments/assets/fa396e05-b84e-4d00-a3b2-c602a0629216)
+
+![fd98c613-3787-4c68-833a-721ec11d7c86.gif](https://github.com/user-attachments/assets/7f3ab774-d0eb-43fa-81db-fa1f6c4db169)
+
+![26b85eaf-6cfe-4060-b88f-dae91fb65c5d.gif](https://github.com/user-attachments/assets/d422c53b-5a59-49f4-b4e7-b9de38b49c36)
+
 
 ## Blocks
 
