@@ -12,7 +12,10 @@ This extension adds a realistic glass breaking effect to any view. It was develo
 📱 **Minimum API Level:** 14<br>
 📅 **Updated On:** [date=2025-05-09 timezone="Asia/Calcutta"]<br>
 💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small><br>
+📚 **Library Use** by [zhanyongsheng](https://github.com/zhanyongsheng/BrokenView) Thanks you for your awesome library.
 <br>
+💲 **Buy On** UPI 180rs or USD 2💲.
+
 
 ## Demo
 
