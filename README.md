@@ -15,7 +15,7 @@ This extension adds a realistic glass breaking effect to any view. It was develo
 📚 **Library Use** by [zhanyongsheng](https://github.com/zhanyongsheng/BrokenView) Thanks you for your awesome library.
 <br>
 💲 **Buy On** UPI 180rs or USD 2💲.
-
+[Buy-Now](https://www.paypal.com/ncp/payment/655W5YX869PPL)
 
 ## Demo
 
@@ -451,7 +451,7 @@ Set the radius of circle rifts (set to 0 to disable circle rifts, Default circle
 
 ## Buy on PayPal 
 
-![paypal.jpg](https://github.com/user-attachments/assets/0a9a28c9-4083-436e-9308-a78c61d3444a)
+[PayPal Buy](https://www.paypal.com/ncp/payment/655W5YX8PayPal  
 
 ## Thanks 
 TechHamara 
